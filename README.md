@@ -3,8 +3,8 @@
 👨‍💻 Cientista de dados e desenvolvedor com foco em **Aprendizado por Reforço**, **IA em tempo real** e outras loucuras que chamam de programação.
 
 💡 Filosofia de bar (versão editada):
-> **"There's always a dev.  
-There's always a framework.  
+> **"There's always a dev.  
+There's always a framework.  
 There's always a bug."**
 
 [![GitHub followers](https://img.shields.io/github/followers/maelsilvatt?label=Seguidores&style=social)](https://github.com/maelsilvatt)
@@ -17,25 +17,25 @@ There's always a bug."**
 
 ## 🧠 Visão Computacional & AI em Tempo Real
 
-- 🎾 **AI Real-Time Tennis Analysis**  
-  Estatísticas em tempo real de partidas de tênis, usando técnicas de visão computacional e YOLOv8.
-  `Python | YOLOv8 | Real-time CV`
+- 🎾 [**AI Real-Time Tennis Analysis**](https://github.com/maelsilvatt/ai-real-time-tennis-analysis)  
+  Estatísticas em tempo real de partidas de tênis, usando técnicas de visão computacional e YOLOv8.
+  `Python | YOLOv8 | Real-time CV`
 
 ---
 
 ## 🎮 Game Development
 
-- 🍬 **Hell-of-Kitty CG**  
-  FPS 3D psicodélico onde você enfrenta hordas de Hello Kitties possuídas numa ilha de doces, e meu professor é o chefão final com cutscene de Undertale.  
-  `JavaScript | Three.JS | Game Design`
+- 🍬 [**Hell-of-Kitty CG**](https://github.com/maelsilvatt/hell-of-kitty-cg)  
+  FPS 3D psicodélico onde você enfrenta hordas de Hello Kitties possuídas numa ilha de doces, e meu professor é o chefão final com cutscene de Undertale.  
+  `JavaScript | Three.JS | Game Design`
 
 ---
 
 ## ⚙️ Sistemas Embarcados
 
-- ☢️ **G.E.C.K. – Fallout-Inspired Embedded System**  
-  Sistema embarcado funcional inspirado no Garden of Eden Creation Kit do universo Fallout (espero que jamais seja necessário 🙊).  
-  `C++ | Microcontroladores | Embedded Systems`
+- ☢️ [**G.E.C.K. – Fallout-Inspired Embedded System**](https://github.com/maelsilvatt/G.E.C.K.-Fallout-Sistemas-Embarcados-2024-2)  
+  Sistema embarcado funcional inspirado no Garden of Eden Creation Kit do universo Fallout (espero que jamais seja necessário 🙊).  
+  `C++ | Microcontroladores | Embedded Systems`
 
 ---
 
@@ -43,11 +43,11 @@ There's always a bug."**
 
 ```
 
-Aprendizado por Reforço •  Inteligência Artificial •  Game Dev • Engenharia de Software
+Aprendizado por Reforço •  Inteligência Artificial •  Game Dev • Engenharia de Software
 
 ```
 
-## 🔥 No que ando me metendo ultimamente  
+## 🔥 No que ando me metendo ultimamente  
 🤖 █████ (Privado, por enquanto) → Um ambiente multiagente inspirado em Roguelikes, com uma dose de Teoria dos Jogos Iterada (que eu menti que dava pra fazer num TCC só pra ter acesso às GPUs da faculdade).
 
 `Python | Gymnasium | Pygame | PPO + LSTM + RND | Status: 66,7% com IC de 95%`
@@ -67,11 +67,11 @@ _[Por que meus agentes só traem?? Acho que sai até ano que vem.]_
 
 ## 📫 Contato
 
-Caso queira entrar em contato!
-
 - 💼 [LinkedIn](https://linkedin.com/in/maelsilvatt)
 - 📧 [ismaelsoares.pro@gmail.com](mailto:ismaelsoares.pro@gmail.com)
 
 ---
 
 > Equilíbrio de Nash é quando meu código funciona se eu não mexer em absolutamente nada naquela função estranha
+
+```
