@@ -2,11 +2,6 @@
 
 👨‍💻 Cientista de dados e desenvolvedor com foco em **Aprendizado por Reforço**, **IA em tempo real** e outras loucuras que chamam de programação.
 
-💡 Filosofia de bar (versão editada):
-> **"There's always a dev.  
-There's always a framework.  
-There's always a bug."**
-
 [![GitHub followers](https://img.shields.io/github/followers/maelsilvatt?label=Seguidores&style=social)](https://github.com/maelsilvatt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maelsilvatt-blue?logo=linkedin&style=flat)](https://linkedin.com/in/maelsilvatt)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
