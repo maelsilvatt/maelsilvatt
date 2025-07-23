@@ -18,7 +18,7 @@ There's always a bug."**
 ## 🧠 Visão Computacional & AI em Tempo Real
 
 - 🎾 **AI Real-Time Tennis Analysis**  
-  Estatísticas em tempo real de jogos de tênis com visão computacional. Usa conceitos muito interessantes de Visão Computacional.  
+  Estatísticas em tempo real de partidas de tênis, usando técnicas de visão computacional e YOLOv8.
   `Python | YOLOv8 | Real-time CV`
 
 ---
@@ -73,5 +73,7 @@ Caso queira entrar em contato!
 - 📧 [ismaelsoares.pro@gmail.com](mailto:ismaelsoares.pro@gmail.com)
 
 ---
+
+![Visitas](https://komarev.com/ghpvc/?username=maelsilvatt&label=Devs+que+chegaram+aqui+e+pensaram+"WTF?"&color=blueviolet)
 
 > Equilíbrio de Nash é quando meu código funciona se eu não mexer em absolutamente nada naquela função estranha
