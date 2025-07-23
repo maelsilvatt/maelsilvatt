@@ -34,7 +34,7 @@ There's always a bug."**
 ## ⚙️ Sistemas Embarcados
 
 - ☢️ **G.E.C.K. – Fallout-Inspired Embedded System**  
-  Sistema embarcado funcional inspirado no Garden of Eden Creation Kit do universo Fallout (espero que jamais seja necessário 🙊.  
+  Sistema embarcado funcional inspirado no Garden of Eden Creation Kit do universo Fallout (espero que jamais seja necessário 🙊).  
   `C++ | Microcontroladores | Embedded Systems`
 
 ---
