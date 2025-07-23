@@ -1,6 +1,6 @@
 # 👋 Me chamo Ismael — um cara com síndrome de tédio criativo e sede por projetos ambiciosos
 
-👨‍💻 Cientista de dados e desenvolvedor com foco em **Aprendizado por Reforço**, **IA em tempo real** e outras loucuras que chamam de programação.
+👨‍💻 Cientista de dados e desenvolvedor com foco em **Aprendizado por Reforço** e **Sistemas de IA em tempo real**.
 
 [![GitHub followers](https://img.shields.io/github/followers/maelsilvatt?label=Seguidores&style=social)](https://github.com/maelsilvatt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maelsilvatt-blue?logo=linkedin&style=flat)](https://linkedin.com/in/maelsilvatt)
@@ -42,7 +42,7 @@ Aprendizado por Reforço •  Inteligência Artificial •  Game Dev • Engen
 
 ```
 
-## 🔥 No que ando me metendo ultimamente  
+## 🔥 No que ando trabalhando ultimamente 
 🤖 █████ (Privado, por enquanto) → Um ambiente multiagente inspirado em Roguelikes, com uma dose de Teoria dos Jogos Iterada (que eu menti que dava pra fazer num TCC só pra ter acesso às GPUs da faculdade).
 
 `Python | Gymnasium | Pygame | PPO + LSTM + RND | Status: 66,7% com IC de 95%`
