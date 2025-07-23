@@ -39,7 +39,7 @@ There's always a bug."**
 
 ---
 
-## 🧠 Interesses & Foco
+## 🧠 Áreas de Interesse
 
 ```
 
