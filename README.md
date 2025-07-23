@@ -65,11 +65,11 @@ Aprendizado por Reforço • Inteligência Artificial • Game Dev • Sistemas 
 
 ## 📫 Contato
 
-Se quiser trocar uma ideia sobre IA, sistemas multiagente e Game Dev, só acionar
+Caso queira entrar em contato!
 
 - 💼 [LinkedIn](https://linkedin.com/in/maelsilvatt)
+- 💼 [E-mail Profissional](ismaelsoares.pro@gmail.com)
 
 ---
 
 `Equilíbrio de Nash é quando meu código funciona se eu não mexer em absolutamente nada naquela função estranha`
-```
