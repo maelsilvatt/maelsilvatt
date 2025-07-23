@@ -43,14 +43,16 @@ There's always a bug."**
 
 ```
 
-Aprendizado por Reforço • Inteligência Artificial • Game Dev • Sistemas Multiagentes
+🤖 Aprendizado por Reforço • 🧠 Inteligência Artificial • 🎮 Game Dev • ⚙️ Engenharia de Software
 
 ```
 
 ## 🔥 No que ando me metendo ultimamente  
-🤖 █████ (É privado, por enquanto) → Um ambiente multiagente inspirado em Roguelikes, com uma dose de Teoria dos Jogos Iterada (que eu menti que dava pra fazer num TCC só pra ter acesso às GPUs da faculdade).
+🤖 █████ (Privado, por enquanto) → Um ambiente multiagente inspirado em Roguelikes, com uma dose de Teoria dos Jogos Iterada (que eu menti que dava pra fazer num TCC só pra ter acesso às GPUs da faculdade).
 
-`Python | Gymnasium | Pygame | PPO + LSTM + RND | Status: 66,7% com IC de 95% ([por que meus agentes só traem??, acho que sai até ano que vem])`
+`Python | Gymnasium | Pygame | PPO + LSTM + RND | Status: 66,7% com IC de 95%`
+
+_[Por que meus agentes só traem?? Acho que sai até ano que vem.]_
 
 ## 🧰 Stack Principal
 
@@ -68,8 +70,8 @@ Aprendizado por Reforço • Inteligência Artificial • Game Dev • Sistemas 
 Caso queira entrar em contato!
 
 - 💼 [LinkedIn](https://linkedin.com/in/maelsilvatt)
-- 💼 [E-mail Profissional](ismaelsoares.pro@gmail.com)
+- 📧 [ismaelsoares.pro@gmail.com](mailto:ismaelsoares.pro@gmail.com)
 
 ---
 
-`Equilíbrio de Nash é quando meu código funciona se eu não mexer em absolutamente nada naquela função estranha`
+> Equilíbrio de Nash é quando meu código funciona se eu não mexer em absolutamente nada naquela função estranha
