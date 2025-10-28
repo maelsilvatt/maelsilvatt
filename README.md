@@ -2,6 +2,11 @@
 
 👨‍💻 **Machine Learning Engineer (Aspiring) | Reinforcement Learning & Production AI Systems**
 
+[![GitHub followers](https://img.shields.io/github/followers/maelsilvatt?label=Followers&style=social)](https://github.com/maelsilvatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maelsilvatt-blue?logo=linkedin&style=flat)](https://linkedin.com/in/maelsilvatt)
+
+---
+
 ## 📄 About Me
 
 Passionate about operationalizing machine learning models and building robust, scalable AI systems. Currently focusing on **Reinforcement Learning** and its applications, with a strong interest in **MLOps**, model deployment, and performance monitoring. Graduated in **Computer Engineering** from Universidade Federal do Ceará (UFC) – Sobral Campus, and actively seeking opportunities to apply software engineering principles to solve real-world ML challenges.
@@ -13,7 +18,7 @@ Passionate about operationalizing machine learning models and building robust, s
 ### 🤖 Reinforcement Learning & Simulation Environments
 
 * **[BuriedBrains (Single-Agent PvE)](https://github.com/maelsilvatt/buriedbrains-rogelike-sae)**: Designed, implemented, and validated a complex, roguelike-inspired, partially observable simulation environment (POMDP) using Python and Gymnasium. Developed a robust training pipeline using Stable Baselines3 (PPO/LSTM) and custom callbacks for detailed metric logging and results analysis (Hall of Fame). This project involved environment design, agent training/validation, and iterative development based on performance data – core skills relevant to MLE.
-    * `Status: PvE Environment Validation | TCC Writing Phase`
+    * `Status: Completed TCC (PvE Environment Validation)`
     * `Tech: Python | Gymnasium | Stable Baselines3 | PyTorch | NetworkX | Reinforcement Learning | MLOps (Experiment Tracking)`
 
 ### 👁️ Computer Vision & Real-time AI Systems
@@ -23,6 +28,8 @@ Passionate about operationalizing machine learning models and building robust, s
 
 ### ⚙️ Systems & Software Engineering
 
+* **[Simulador_Grafos](https://github.com/nitsuboy/Simulador_Grafos)**: Developed a **conquest simulation environment** modeled using graph structures. Implemented game rules inspired by war/strategy games, demonstrating skills in simulation design, game logic implementation, and graph theory application.
+    * `Tech: Python | Graph Theory | Simulation`
 * **[G.E.C.K. – Fallout-Inspired Embedded System](https://github.com/maelsilvatt/G.E.C.K.-Fallout-Sistemas-Embarcados-2024-2)**: Developed a functional embedded system, showcasing strong C++ skills and experience with hardware constraints, relevant for Edge AI or performance-critical ML deployments.
     * `Tech: C++ | Microcontrollers | Embedded Systems | Performance Optimization`
 * **[Hell-of-Kitty CG](https://github.com/maelsilvatt/hell-of-kitty-cg)**: Developed a 3D browser game, demonstrating proficiency in JavaScript and front-end technologies (Three.JS), highlighting software development versatility.
@@ -36,7 +43,7 @@ Passionate about operationalizing machine learning models and building robust, s
 * **AI / Machine Learning:**
     * **Domains:** Reinforcement Learning (RL), Computer Vision (CV)
     * **Concepts:** MLOps (Experiment Tracking, Model Validation), POMDPs, Model Training & Evaluation
-    * **Frameworks/Libraries:** **Stable Baselines3**, **Gymnasium**, **PyTorch**, **TensorFlow** (TF.js), **Scikit-learn** (mention if used), **OpenCV**
+    * **Frameworks/Libraries:** **Stable Baselines3**, **Gymnasium**, **PyTorch**, **TensorFlow**, **Scikit-learn**, **OpenCV**
 * **MLOps & Deployment (Learning/Interested):** Docker, Kubernetes, CI/CD for ML, Cloud Platforms (AWS/GCP/Azure)
 * **Data Processing:** Pandas, NumPy
 * **Other:** Git, Software Engineering Principles, System Design
