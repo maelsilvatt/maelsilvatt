@@ -1,72 +1,51 @@
-# 👋 Me chamo Ismael
+# Ismael Soares da Silva
 
-👨‍💻 Cientista de dados e desenvolvedor com foco em **Aprendizado por Reforço** e **Sistemas de IA em tempo real**.
+👨‍💻 **Machine Learning Engineer (Aspiring) | Reinforcement Learning & Production AI Systems**
 
-[![GitHub followers](https://img.shields.io/github/followers/maelsilvatt?label=Seguidores&style=social)](https://github.com/maelsilvatt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-maelsilvatt-blue?logo=linkedin&style=flat)](https://linkedin.com/in/maelsilvatt)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%F0%9F%A4%96-green)]()
-[![AI](https://img.shields.io/badge/Artificial%20Intelligence-%E2%9C%94%EF%B8%8F-brightgreen)]()
+## 📄 About Me
+
+Passionate about operationalizing machine learning models and building robust, scalable AI systems. Currently focusing on **Reinforcement Learning** and its applications, with a strong interest in **MLOps**, model deployment, and performance monitoring. Graduated in **Computer Engineering** from Universidade Federal do Ceará (UFC) – Sobral Campus, and actively seeking opportunities to apply software engineering principles to solve real-world ML challenges.
 
 ---
 
-## 🧠 Visão Computacional & AI em Tempo Real
+## ✨ Featured Projects
 
-- 🎾 [**AI Real-Time Tennis Analysis**](https://github.com/maelsilvatt/ai-real-time-tennis-analysis)  
-  Estatísticas em tempo real de partidas de tênis, usando técnicas de visão computacional e YOLOv8.
-  `Python | YOLOv8 | Real-time CV`
+### 🤖 Reinforcement Learning & Simulation Environments
 
----
+* **[BuriedBrains (Single-Agent PvE)](https://github.com/maelsilvatt/buriedbrains-rogelike-sae)**: Designed, implemented, and validated a complex, roguelike-inspired, partially observable simulation environment (POMDP) using Python and Gymnasium. Developed a robust training pipeline using Stable Baselines3 (PPO/LSTM) and custom callbacks for detailed metric logging and results analysis (Hall of Fame). This project involved environment design, agent training/validation, and iterative development based on performance data – core skills relevant to MLE.
+    * `Status: PvE Environment Validation | TCC Writing Phase`
+    * `Tech: Python | Gymnasium | Stable Baselines3 | PyTorch | NetworkX | Reinforcement Learning | MLOps (Experiment Tracking)`
 
-## 🎮 Game Development
+### 👁️ Computer Vision & Real-time AI Systems
 
-- 🍬 [**Hell-of-Kitty CG**](https://github.com/maelsilvatt/hell-of-kitty-cg)  
-  FPS 3D psicodélico onde você enfrenta hordas de Hello Kitties possuídas numa ilha de doces, e meu professor é o chefão final com cutscene de Undertale.  
-  `JavaScript | Three.JS | Game Design`
+* **[AI Real-Time Tennis Analysis](https://github.com/maelsilvatt/ai-real-time-tennis-analysis)**: Built a system leveraging YOLOv8 for real-time object detection and tracking in tennis matches, demonstrating experience in integrating pre-trained models into applications and handling real-time data streams. Explored challenges related to model deployment in time-sensitive scenarios.
+    * `Tech: Python | YOLOv8 | OpenCV | Real-time CV | Model Integration`
 
----
+### ⚙️ Systems & Software Engineering
 
-## ⚙️ Sistemas Embarcados
-
-- ☢️ [**G.E.C.K. – Fallout-Inspired Embedded System**](https://github.com/maelsilvatt/G.E.C.K.-Fallout-Sistemas-Embarcados-2024-2)  
-  Sistema embarcado funcional inspirado no Garden of Eden Creation Kit do universo Fallout (espero que jamais seja necessário 🙊).  
-  `C++ | Microcontroladores | Embedded Systems`
+* **[G.E.C.K. – Fallout-Inspired Embedded System](https://github.com/maelsilvatt/G.E.C.K.-Fallout-Sistemas-Embarcados-2024-2)**: Developed a functional embedded system, showcasing strong C++ skills and experience with hardware constraints, relevant for Edge AI or performance-critical ML deployments.
+    * `Tech: C++ | Microcontrollers | Embedded Systems | Performance Optimization`
+* **[Hell-of-Kitty CG](https://github.com/maelsilvatt/hell-of-kitty-cg)**: Developed a 3D browser game, demonstrating proficiency in JavaScript and front-end technologies (Three.JS), highlighting software development versatility.
+    * `Tech: JavaScript | Three.JS | Software Development`
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🛠️ Skills & Technologies
 
-```
-
-Aprendizado por Reforço •  Inteligência Artificial •  Game Dev • Engenharia de Software
-
-```
-
-## 🔥 No que ando trabalhando ultimamente 
-🤖 █████ (Privado, por enquanto) → Um ambiente multiagente inspirado em Roguelikes, com uma dose de Teoria dos Jogos Iterada (que eu menti que dava pra fazer num TCC só pra ter acesso às GPUs da faculdade).
-
-`Python | Gymnasium | Pygame | PPO + LSTM + RND | Status: 66,7% com IC de 95%`
-
-_[Por que meus agentes só traem?? Acho que sai até ano que vem.]_
-
-## 🧰 Stack Principal
-
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white)](https://threejs.org/)
-[![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/js)
-[![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-1e4f79?logo=python&logoColor=white)](https://github.com/DLR-RM/stable-baselines3)
+* **Core Languages:** **Python**, C++, JavaScript
+* **AI / Machine Learning:**
+    * **Domains:** Reinforcement Learning (RL), Computer Vision (CV)
+    * **Concepts:** MLOps (Experiment Tracking, Model Validation), POMDPs, Model Training & Evaluation
+    * **Frameworks/Libraries:** **Stable Baselines3**, **Gymnasium**, **PyTorch**, **TensorFlow** (TF.js), **Scikit-learn** (mention if used), **OpenCV**
+* **MLOps & Deployment (Learning/Interested):** Docker, Kubernetes, CI/CD for ML, Cloud Platforms (AWS/GCP/Azure)
+* **Data Processing:** Pandas, NumPy
+* **Other:** Git, Software Engineering Principles, System Design
 
 ---
 
-## 📫 Contato
+## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/maelsilvatt)
-- 📧 [ismaelsoares.pro@gmail.com](mailto:ismaelsoares.pro@gmail.com)
+* **LinkedIn:** [linkedin.com/in/maelsilvatt](https://linkedin.com/in/maelsilvatt)
+* **Email:** [ismaelsoares.pro@gmail.com](mailto:ismaelsoares.pro@gmail.com)
 
 ---
-
-> Equilíbrio de Nash é quando meu código funciona se eu não mexer em absolutamente nada naquela função estranha
-
-```
