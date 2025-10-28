@@ -1,4 +1,4 @@
-# 👋 Me chamo Ismael — um cara com síndrome de tédio criativo e sede por projetos ambiciosos
+# 👋 Me chamo Ismael
 
 👨‍💻 Cientista de dados e desenvolvedor com foco em **Aprendizado por Reforço** e **Sistemas de IA em tempo real**.
 
