@@ -17,7 +17,7 @@ Passionate about operationalizing machine learning models and building robust, s
 
 ### 🤖 Reinforcement Learning & Simulation Environments
 
-* **[BuriedBrains (Single-Agent PvE)](https://github.com/maelsilvatt/buriedbrains-rogelike-sae)**: Designed, implemented, and validated a complex, roguelike-inspired, partially observable simulation environment (POMDP) using Python and Gymnasium. Developed a robust training pipeline using Stable Baselines3 (PPO/LSTM) and custom callbacks for detailed metric logging and results analysis (Hall of Fame). This project involved environment design, agent training/validation, and iterative development based on performance data – core skills relevant to MLE.
+* **[BuriedBrains (Single-Agent PvE)](https://github.com/maelsilvatt/buriedbrains-roguelike-rl-env)**: Designed, implemented, and validated a complex, roguelike-inspired, partially observable simulation environment (POMDP) using Python and Gymnasium. Developed a robust training pipeline using Stable Baselines3 (PPO/LSTM) and custom callbacks for detailed metric logging and results analysis (Hall of Fame). This project involved environment design, agent training/validation, and iterative development based on performance data – core skills relevant to MLE.
     * `Status: Completed TCC (PvE Environment Validation)`
     * `Tech: Python | Gymnasium | Stable Baselines3 | PyTorch | NetworkX | Reinforcement Learning | MLOps (Experiment Tracking)`
 
