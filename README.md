@@ -25,11 +25,11 @@ Experienced in building back-end architectures, handling advanced concurrency (m
 
 ---
 
-## ✨ Featured Projects & P&D Engagements
+## ✨ Featured Projects & R&D Engagements
 
 ### 🤖 Distributed Systems & Intelligence Architecture
 
-* **[BuriedBrains – Large-scale Deep RL Temporal Credit Assignment Benchmark](https://github.com/maelsilvatt/buriedbrains-roguelike-rl-env)**: An original Deep Reinforcement Learning environment integrating Python and C++ for evaluating autonomous agents under volatile and noisy conditions. Engineered a Hub-and-Spoke architecture capable of orchestrating 1,000 concurrent agents using advanced multiprocessing for massive data pipelines, achieving 80% Explained Variance (EV) on off-the-shelf (RPPO + Custom Transformer Auto Encoder).
+* **[BuriedBrains – Large-scale Deep RL Temporal Credit Assignment Benchmark](https://github.com/maelsilvatt/buriedbrains-roguelike-rl-env)**: An original Deep Reinforcement Learning environment integrating Python and C++ for evaluating autonomous agents under volatile and noisy conditions. Engineered a Hub-and-Spoke architecture capable of orchestrating 1,000 concurrent agents using advanced multiprocessing for massive data pipelines, achieving 80% Explained Variance (EV) on an off-the-shelf RPPO integrated with a custom Transformer Autoencoder.
     * `Tech: Python | C++ | Gymnasium | Stable Baselines3 | PyTorch | NetworkX | Distributed Systems | MLOps`
 
 * **[Stratflow Sim Lab – Agent Benchmarking & Logistics Platform](https://github.com/nitsuboy/Simulador_Grafos)**: A robust platform built to evaluate AI agents tackling classic logistics and network graph constraints (max flow, route optimization). Features high-performance Python RESTful APIs and a highly concurrent state persistence orchestration layer powered by **Go (Goroutines)** for real-time request pairing.
@@ -40,16 +40,16 @@ Experienced in building back-end architectures, handling advanced concurrency (m
 * **[G.E.C.K. – Mission-Critical Embedded System & RTOS Monitoring](https://github.com/maelsilvatt/G.E.C.K.-Fallout-Sistemas-Embarcados-2024-2)**: A real-time environmental asset monitoring system developed using C++ and RTOS. Implemented multi-threaded data acquisition and priority-based task scheduling with strict synchronization mechanisms (Mutexes/Semaphores) to eliminate race conditions and ensure deterministic low-latency execution on edge hardware.
     * `Tech: C++ | RTOS | Microcontrollers | Embedded Systems | Concurrent Programming | Edge Computing`
 
-* **Autonomous Drone Indrustrial Monitoring System**: Implementation of high-efficiency computer vision pipelines for real-time tracking and autonomous safety monitoring of commercial drones. Focused on resource optimization for edge computing devices to ensure economic viability and low-latency deterministic streaming.
+* **Autonomous Drone Industrial Monitoring System**: Implementation of high-efficiency computer vision pipelines for real-time tracking and autonomous safety monitoring of commercial drones. Focused on resource optimization for edge computing devices to ensure economic viability and low-latency deterministic streaming.
     * `Tech: Python | PyTorch | Edge AI | Data Pipelines | Systems Optimization`
 
-* **Libras Sign Language Real-Time Recognition System**: A hybrid processing architecture developed at Nuclic for real-time sign language recognition. Features advanced noise mitigation techniques on incoming data streams to stabilize inference, achieving 95% classification accuracy in production environments.
+* **LIBRAS (Brazilian Sign Language) Real-Time Recognition System**: A hybrid processing architecture developed at Nuclic for real-time sign language recognition. Features advanced noise mitigation techniques on incoming data streams to stabilize inference, achieving 95% classification accuracy in production environments.
     * `Tech: Python | Computer Vision | Pattern Recognition | Pipeline Optimization`
 
 ### 🌐 Web Engineering & Scalable Platforms
 
 * **EdTech Mini Cientistas – Multiplatform Web Architecture**: Core architecture design for a social high-impact educational multiplatform system optimized for low-spec devices and constrained network hardware. Built scalable, strongly-typed responsive user interfaces with TypeScript and React, alongside interactive simulation tools powered by Phaser 3.
-    * `Tech: TypeScript | JavaScript | React | Phaser 3 | Web Architecture | Tech Governance`
+    * `Tech: TypeScript | JavaScript | React | Phaser 3 | Web Architecture | System Design`
 
 ---
 
