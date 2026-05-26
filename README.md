@@ -1,6 +1,6 @@
 # Ismael Soares da Silva
 
-👨‍💻 **Computer Engineer | High-Performance Systems & AI Architecture **
+👨‍💻 **Computer Engineer | High-Performance Systems & AI Architecture**
 
 [![GitHub followers](https://img.shields.io/github/followers/maelsilvatt?label=Followers&style=social)](https://github.com/maelsilvatt)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maelsilvatt-blue?logo=linkedin&style=flat)](https://linkedin.com/in/maelsilvatt)
