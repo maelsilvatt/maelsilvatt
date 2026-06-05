@@ -27,6 +27,14 @@ Experienced in building back-end architectures, handling advanced concurrency (m
 
 ## ✨ Featured Projects & R&D Engagements
 
+### 🌐 Applied Generative AI & Intelligent Systems
+
+* **[OmniScribe AI – High-Performance Regulatory Audit & Compliance Engine](https://github.com/maelsilvatt/semanticvault-gemini-rag)**: A scalable Retrieval-Augmented Generation (RAG) architecture engineered to ingest raw corporate data—such as contracts, balance sheets, and operational history—and audit it against complex, evolving regulatory frameworks (LGPD, Central Bank norms, ISOs). Features an asynchronous Python processing pipeline utilizing `asyncio` and `FastAPI` for low-latency context retrieval, leveraging ChromaDB for semantic compliance mapping and the Google Gemini API for context-aware, deterministic risk synthesis and automated reporting.
+    * `Tech: Python | FastAPI | Google Gemini API | ChromaDB | Asyncio | Vector Embeddings`
+
+* **[SynapseOrchestrator – Event-Driven Multi-Agent LLM Coordinator](https://github.com/maelsilvatt/synapse-agent-orchestrator)**: An autonomous multi-agent framework built with LangChain designed to orchestrate specialized LLM workers solving complex sequential and parallel research tasks. Implements a structured state-machine architecture to control context propagation, handle tool-execution loops, and enforce schema validation using Pydantic.
+    * `Tech: Python | LangChain | Google Gemini API | Pydantic | Agentic Workflows | System Design`
+
 ### 🤖 Distributed Systems & Intelligence Architecture
 
 * **[BuriedBrains – Large-scale Deep RL Temporal Credit Assignment Benchmark](https://github.com/maelsilvatt/buriedbrains-roguelike-rl-env)**: An original Deep Reinforcement Learning environment integrating Python and C++ for evaluating autonomous agents under volatile and noisy conditions. Engineered a Hub-and-Spoke architecture capable of orchestrating 1,000 concurrent agents using advanced multiprocessing for massive data pipelines, achieving 80% Explained Variance (EV) on an off-the-shelf RPPO integrated with a custom Transformer Autoencoder.
