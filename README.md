@@ -35,7 +35,7 @@ Experienced in architecting robust back-end systems, managing concurrency (multi
   * Integrated ChromaDB for semantic compliance mapping and the Google Gemini API for context-aware, deterministic risk synthesis and automated reporting.
   * `Stack: Python, Data Engineering, LLM, FastAPI, Redis, PostgreSQL, Google Gemini API, ChromaDB, Asyncio, Vector Embeddings, Docker.`
 
-* **[Reaper Virtual Symphony AI Generator](https://github.com/maelsilvatt/azaphis-reaper-virtual-symphony-ai-generator)**
+* **[Azaphis Reaper Multi Track AI Generator](https://github.com/maelsilvatt/azaphis-reaper-multi-track-ai-generator)**
   * Developed a professional automation pipeline to dynamically generate Reaper (.RPP) projects from audio files, URLs, and chord sheets, isolating stems via Meta's Demucs 6s.
   * Built a data engineering workflow utilizing LLMs, Regex, TTS models, and faster-whisper to clean non-standard chord charts and auto-generate aligned guide vocals.
   * Architected a containerized producer-consumer system (Hexagonal Architecture) with Redis and Docker, featuring Telegram Bot integration for remote execution and setlist generation.
